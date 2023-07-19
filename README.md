@@ -62,13 +62,16 @@ python3 -m venv venv
     ```
 
 3. Install the Python dependencies:
+    ```
 pip install -r requirements.txt
-
-4. Start the Django development server:
+    ```
+5. Start the Django development server:
+  ```
 python manage.py runserver
+  ```
 
 
-5. The Django API will be accessible at [http://localhost:8000](http://localhost:8000).
+6. The Django API will be accessible at [http://localhost:8000](http://localhost:8000).
 
 ### Frontend Configuration
 
