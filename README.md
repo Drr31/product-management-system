@@ -36,17 +36,18 @@ Verify if node and npm are installed
   ```
 
 2. Navigate to the project directory:
+ ```
 cd product-management-system
-
+ ```
 
 ### Backend Configuration
 To configure the Django backend, follow these steps:
 
 
 1. Create a virtual environment:
-
+ ```
 python3 -m venv venv
-
+ ```
 
 2. Activate the virtual environment:
 
