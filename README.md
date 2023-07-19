@@ -72,13 +72,21 @@ python manage.py runserver
 ### Frontend Configuration
 
 1.navigate to frontend directory
+ ```
  cd frontend
+ ```
 
 2.Install frontend libraries using npm
+ ```
 npm install
+ ```
 
 3.Start Node server
+ ```
 npm start
+ ```
+
+Once node is started you can access the application on http://localhost:3000/
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please create a new issue or submit a pull request.
