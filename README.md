@@ -30,8 +30,10 @@ Product Management System is a web application built using ReactJS and Django. I
 git clone https://github.com/your-username/product-management-system.git
 
 Verify if node and npm are installed
+  ```
   node --version
   npm -version
+  ```
 
 2. Navigate to the project directory:
 cd product-management-system
